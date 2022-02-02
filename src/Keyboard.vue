@@ -10,9 +10,9 @@ defineEmits<{
 }>()
 
 const rows = [
-  'qwertyuiop'.split(''),
-  'asdfghjkl'.split(''),
-  ['Enter', ...'zxcvbnm'.split(''), 'Backspace']
+  'أبتثجحخد'.split(''),
+  'ذرزسشصضط'.split(''),
+  ['Enter', ...'ظعغفقكلمنهوي'.split(''), 'Backspace']
 ]
 </script>
 
